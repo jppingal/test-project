@@ -1,0 +1,1 @@
+export const GET_USERS = "https://6298b5dade3d7eea3c6e52fb.mockapi.io/api/v1/users";
